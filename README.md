@@ -32,7 +32,7 @@ To use this loan qualifier tool follow the below steps:
 - For questionary `Enter a file path to a rate-sheet (.csv)?` you can use file path as `Challenge-2/data`
 - For questionary `Enter a file path to save a qualifying loans to file (.csv)?` Provide the file path where you want to save the output csv file.
 
-### Check below snippet as running example:  
+`Check below snippet as running example:`  
     
 ![RunningCLISnippet](images/CodeSnip.png) 
 

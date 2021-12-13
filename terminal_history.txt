@@ -635,3 +635,15 @@
   684  git add images
   685  git commit -m "Updating uREADME file with usage instructions"
   686  git push
+  687  history 50 > terminal_history.txt
+  688  git status
+  689  git add terminal_history.txt
+  690  git status
+  691  git commit -m "Adding a text file of command history"
+  692  git status
+  693  git push
+  694  pwd
+  695  cd ..
+  696  cd Challenge-2
+  697  git status
+  698  git status
