@@ -23,7 +23,20 @@ Before running the application first download the whole folder named "loan_quali
   pip install questionary
 ```
 ---
+## Usage
 
+To use this loan qualifier tool follow the below steps:
+
+- Make sure you are using pyhton version 3.7 and above. To check that use `python --version`
+- Run `python app.py` and follow the questionary to provide the inputs.
+- For questionary `Enter a file path to a rate-sheet (.csv)?` you can use file path as `Challenge-2/data`
+- For questionary `Enter a file path to save a qualifying loans to file (.csv)?` Provide the file path where you want to save the output csv file.
+
+### Check below snippet as running example:  
+    
+![RunningCLISnippet](images/CodeSnip.png) 
+
+---
 
 ## Contributors
  
