@@ -1,0 +1,637 @@
+   50  ping github.com,
+   51  ping github.com
+   52  eval "$(ssh-agent –s)"
+   53  exit
+   54  cat ~/.ssh/id_rsa.pub
+   55  which ssh
+   56  eval "$(ssh-agent –s)"
+   57  ls
+   58  cat ~/.ssh/id_rsa
+   59  cat ~/.ssh/id_rsa.pub
+   60  ssh-add ~/.ssh/id_rsa
+   61  eval "$(ssh-agent –s)"
+   62  ssh –T git@github.com
+   63  ssh –T git@github.com
+   64  ssh –T github.com
+   65  ssh –T git@github.com
+   66  clea
+   67  rclear
+   68  clear
+   69  ssh-keygen –t rsa –b 4096 –C "sam.summo2812@gmail.com"
+   70  ssh-keygen –t rsa –b 4096 –C "sam.summo2812@gmail.com"
+   71  ssh-keygen
+   72  ssh-keygen -b 4096 -C "sam.summo2812@gmail.com"
+   73  clear
+   74  eval "$(ssh-agent -S)"
+   75  eval "$(ssh-agent -s)"
+   76  ssh-add ~/.ssh/id_rsa
+   77  pbcopy < ~/.ssh/id_rsa.pub
+   78  ssh –T git@github.com
+   79  ssh –T git@github.com
+   80  ssh -t git@github.com
+   81  which git
+   82  ssh -t git@github.com
+   83  cat ~/.ssh/known_hosts
+   84  rm ~/.ssh/known_hosts
+   85  cat ~/.ssh/known_hosts
+   86  ssh -t git@github.com
+   87  ssh -t git@github.com
+   88  ssh -t git@github.com
+   89  clear
+   90  ssh -t git@github.com
+   91  ssh -t git@github.com
+   92  ssh -T git@github.com
+   93  cat << EOF >> ~/.bash_profile\ncat ~/.bash_profile\nexit
+   94  clear
+   95  cat ~/.bash_profile
+   96  which code
+   97  cat ~/.zsh
+   98  cat ~/.zshrc
+   99  code
+  100  clear
+  101  python -m ipykernel install --user --name dev\n\n
+  102  conda activate dev
+  103  conda init zsh
+  104  python -m ipykernel install --user --name dev
+  105  conda install -c conda-forge nodejs
+  106  conda deactivate
+  107  clear
+  108  ls
+  109  mkdir FinTech-Workspace
+  110  ls
+  111  cd FinTech-Workspace
+  112  ls
+  113  pdw
+  114  pwd
+  115  cd fintech
+  116  cd FinTech-Workspace 
+  117  ls
+  118  echo bash
+  119  echo zsh
+  120  echo $SHELL
+  121  bash
+  122  code
+  123  code
+  124  cat ~/.zshrc
+  125  cat ~/.bash_profile
+  126  cat ~/.zshrc
+  127  which code
+  128  code
+  129  source ~/.bash_profile
+  130  cat ~/.bash_profile
+  131  cat ~/.zshrc
+  132  cat ~/.anaconda
+  133  code
+  134  which python
+  135  python --version
+  136  conda --version
+  137  conda update conda
+  138  conda create -n dev python=3.7 anaconda
+  139  conda activate dev
+  140  conda deativate
+  141  conda deactivate
+  142  conda activate dev
+  143  conda init zsh
+  144  echo #{SHELL}
+  145  echo
+  146  echo # {SHELL}
+  147  echo bash
+  148  echo zsh
+  149  echo #zsh
+  150  echo #{zsh}
+  151  clear
+  152  bash
+  153  echo bash
+  154  echo zsh
+  155  echo $SHELL
+  156  bash
+  157  code
+  158  code
+  159  cat ~/.zshrc
+  160  cat ~/.bash_profile
+  161  cat ~/.zshrc
+  162  which code
+  163  code
+  164  source ~/.bash_profile
+  165  cat ~/.bash_profile
+  166  cat ~/.zshrc
+  167  cat ~/.anaconda
+  168  code
+  169  which python
+  170  python --version
+  171  conda --version
+  172  conda update conda
+  173  conda create -n dev python=3.7 anaconda
+  174  conda activate dev
+  175  conda deativate
+  176  conda deactivate
+  177  conda activate dev
+  178  conda init zsh
+  179  echo #{SHELL}
+  180  echo
+  181  echo # {SHELL}
+  182  echo bash
+  183  echo zsh
+  184  echo #zsh
+  185  echo #{zsh}
+  186  clear
+  187  bash
+  188  ls
+  189  cd FinTech-Workspace
+  190  cd Python_Project
+  191  ls
+  192  conda activate dev
+  193  python --version
+  194  code .
+  195  python hello_python.py
+  196  conda deactivate
+  197  ls
+  198  cd documents
+  199  cd
+  200  ls
+  201  cd..
+  202  cd.
+  203  ls
+  204  ls
+  205  open.finteh-workspace
+  206  Open.FinTech-Workspace
+  207  ls
+  208  cd
+  209  ls
+  210  pwd
+  211  clear
+  212  ls
+  213  cd/
+  214  cd/downloads
+  215  cd FinTech-Workspace
+  216  cd..
+  217  cd.
+  218  cd
+  219  cd
+  220  ls
+  221  ls
+  222  cd documents
+  223  ls
+  224  clear
+  225  ls
+  226  cd FinTech-Workspace
+  227  touch summi.py
+  228  ls
+  229  vim summi.py
+  230  ls
+  231  cd
+  232  ls
+  233  cd Documents
+  234  ls
+  235  cd bootcamp
+  236  ls
+  237  cd Class_1_Activities
+  238  ls
+  239  ll
+  240  ls -l
+  241  ls
+  242  cd 05_Ins_Dictionaries
+  243  ls
+  244  cd Solved
+  245  ls
+  246  python discts.py
+  247  python dicts.py
+  248  cd ..
+  249  ls
+  250  cd ~
+  251  ls
+  252  cd Desktop/Pics
+  253  cd ..
+  254  cd Pics
+  255  cd 
+  256  cd ~
+  257  cd Desktop/Pics/Barwani
+  258  ls
+  259  cd ../../
+  260  ls
+  261  cd .
+  262  cd ..
+  263  ls
+  264  cd OneDrive\ -\ Seattle\ University/
+  265  ls
+  266  cd..
+  267  cd ..
+  268  /usr/bin/python3 /Users/summikhanna/Documents/bootcamp/Class_2_Activities/05_Stu_Conditionals/Unsolved/conditionals.py
+  269  /usr/bin/python3 /Users/summikhanna/Documents/bootcamp/Class_2_Activities/06_Ins_Functions/Solved/functions.py
+  270  clear
+  271  /usr/bin/python3 /Users/summikhanna/Documents/bootcamp/Class_2_Activities/06_Ins_Functions/Solved/functions.py
+  272  /usr/bin/python3 /Users/summikhanna/Documents/bootcamp/Class_2_Activities/07_Stu_Functions/Solved/functions.py
+  273  /usr/bin/python3 /Users/summikhanna/Documents/bootcamp/Class_2_Activities/07_Stu_Functions/Unsolved/functions.py
+  274  /usr/bin/python3 /Users/summikhanna/Documents/bootcamp/Class_2_Activities/07_Stu_Functions/Unsolved/functions.py
+  275  /usr/bin/python3 /Users/summikhanna/Documents/bootcamp/Class_2_Activities/07_Stu_Functions/Unsolved/functions.py
+  276  /usr/bin/python3 /Users/summikhanna/Documents/bootcamp/Class_2_Activities/07_Stu_Functions/Unsolved/functions.py
+  277  /usr/bin/python3 /Users/summikhanna/Documents/bootcamp/Class_2_Activities/07_Stu_Functions/Unsolved/functions.py
+  278  clear
+  279  /usr/bin/python3 /Users/summikhanna/Documents/bootcamp/Class_2_Activities/07_Stu_Functions/Unsolved/functions.py
+  280  /usr/bin/python3 /Users/summikhanna/Documents/bootcamp/Class_2_Activities/08_Ins_Loops/Solved/loops.py
+  281  clear
+  282  /usr/bin/python3 /Users/summikhanna/Documents/bootcamp/Class_2_Activities/08_Ins_Loops/Solved/loops.py
+  283  clear
+  284  /usr/bin/python3 /Users/summikhanna/Documents/bootcamp/Class_2_Activities/08_Ins_Loops/Solved/loops.py
+  285  clear
+  286  /usr/bin/python3 /Users/summikhanna/Documents/bootcamp/Class_2_Activities/09_Stu_Loops/Unsolved/loops.py
+  287  /usr/bin/python3 /Users/summikhanna/Documents/bootcamp/Class_2_Activities/09_Stu_Loops/Unsolved/loops.py
+  288  /usr/bin/python3 /Users/summikhanna/Documents/bootcamp/Class_2_Activities/09_Stu_Loops/Unsolved/loops.py
+  289  /usr/bin/python3 /Users/summikhanna/Documents/bootcamp/Class_2_Activities/09_Stu_Loops/Unsolved/loops.py
+  290  /usr/bin/python3 /Users/summikhanna/Documents/bootcamp/Class_2_Activities/07_Stu_Functions/Unsolved/functions.py
+  291  /usr/bin/python3 /Users/summikhanna/Documents/bootcamp/01_Hello_Variable_World/Unsolved/hello_variable_world.py
+  292  /usr/bin/python3 /Users/summikhanna/Documents/bootcamp/01_Hello_Variable_World/Unsolved/hello_variable_world.py
+  293  /usr/bin/python3 /Users/summikhanna/Documents/bootcamp/01_Hello_Variable_World/Unsolved/hello_variable_world.py
+  294  /usr/bin/python3 /Users/summikhanna/Documents/bootcamp/01_Hello_Variable_World/Unsolved/hello_variable_world.py
+  295  /usr/bin/python3 /Users/summikhanna/Documents/bootcamp/01_Hello_Variable_World/Unsolved/hello_variable_world.py
+  296  /usr/bin/python3 /Users/summikhanna/Documents/bootcamp/01_Hello_Variable_World/Unsolved/hello_variable_world.py
+  297  /usr/bin/python3 /Users/summikhanna/Documents/bootcamp/01_Hello_Variable_World/Unsolved/hello_variable_world.py
+  298  /usr/bin/python3 /Users/summikhanna/Documents/bootcamp/01_Hello_Variable_World/Unsolved/hello_variable_world.py
+  299  /usr/bin/python3 /Users/summikhanna/Documents/bootcamp/01_Hello_Variable_World/Unsolved/hello_variable_world.py
+  300  /usr/bin/python3 /Users/summikhanna/Documents/bootcamp/01_Hello_Variable_World/Unsolved/hello_variable_world.py
+  301  clear
+  302   /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 61337 -- "/Users/summikhanna/Documents/bootcamp/My Practise/pyton.py" 
+  303   cd /Users/summikhanna/Documents/bootcamp/01_Hello_Variable_World ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 61473 -- "/Users/summikhanna/Documents/bootcamp/My Practise/pyton.py" 
+  304   cd /Users/summikhanna/Documents/bootcamp/01_Hello_Variable_World ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 61765 -- "/Users/summikhanna/Documents/bootcamp/My Practise/pyton.py" 
+  305   cd /Users/summikhanna/Documents/bootcamp/01_Hello_Variable_World ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 61771 -- "/Users/summikhanna/Documents/bootcamp/My Practise/pyton.py" 
+  306   /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 64658 -- /Users/summikhanna/Documents/bootcamp/02_Listing_Assets/Unsolved/listing_assets.py 
+  307   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 64671 -- /Users/summikhanna/Documents/bootcamp/02_Listing_Assets/Unsolved/listing_assets.py 
+  308   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 64742 -- /Users/summikhanna/Documents/bootcamp/02_Listing_Assets/Unsolved/listing_assets.py 
+  309   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 64886 -- /Users/summikhanna/Documents/bootcamp/02_Listing_Assets/Unsolved/listing_assets.py 
+  310  clear
+  311   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51215 -- /Users/summikhanna/Documents/bootcamp/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  312   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51283 -- /Users/summikhanna/Documents/bootcamp/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  313   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51352 -- /Users/summikhanna/Documents/bootcamp/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  314   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51383 -- /Users/summikhanna/Documents/bootcamp/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  315   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51583 -- /Users/summikhanna/Documents/bootcamp/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  316  clear
+  317   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51620 -- /Users/summikhanna/Documents/bootcamp/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  318   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51872 -- /Users/summikhanna/Documents/bootcamp/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  319   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51889 -- /Users/summikhanna/Documents/bootcamp/03_The_401k_Shuffle/Solved/the_401k_shuffle.py 
+  320   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 52517 -- /Users/summikhanna/Documents/bootcamp/01_Conditional_Statement/Unsolved/conditional_statement.py 
+  321   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 52525 -- /Users/summikhanna/Documents/bootcamp/01_Conditional_Statement/Unsolved/conditional_statement.py 
+  322   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 52546 -- /Users/summikhanna/Documents/bootcamp/01_Conditional_Statement/Unsolved/conditional_statement.py 
+  323   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 52553 -- /Users/summikhanna/Documents/bootcamp/01_Conditional_Statement/Unsolved/conditional_statement.py 
+  324   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 52563 -- /Users/summikhanna/Documents/bootcamp/01_Conditional_Statement/Unsolved/conditional_statement.py 
+  325   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 52817 -- /Users/summikhanna/Documents/bootcamp/01_Conditional_Statement/Unsolved/conditional_statement.py 
+  326   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 52845 -- /Users/summikhanna/Documents/bootcamp/01_Conditional_Statement/Unsolved/conditional_statement.py 
+  327   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 53827 -- /Users/summikhanna/Documents/bootcamp/02_Nested_Conditionals/Unsolved/nested_conditionals.py 
+  328   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 54206 -- /Users/summikhanna/Documents/bootcamp/02_Nested_Conditionals/Unsolved/nested_conditionals.py 
+  329   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 54238 -- /Users/summikhanna/Documents/bootcamp/02_Nested_Conditionals/Unsolved/nested_conditionals.py 
+  330   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 54248 -- /Users/summikhanna/Documents/bootcamp/02_Nested_Conditionals/Unsolved/nested_conditionals.py 
+  331  clear
+  332   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 54847 -- /Users/summikhanna/Documents/bootcamp/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py 
+  333   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 54905 -- /Users/summikhanna/Documents/bootcamp/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py 
+  334   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 54911 -- /Users/summikhanna/Documents/bootcamp/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py 
+  335   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 54923 -- /Users/summikhanna/Documents/bootcamp/03_Split_Second_Homebuying/Solved/split_second_homebuying.py 
+  336   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 55110 -- /Users/summikhanna/Documents/bootcamp/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py 
+  337   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 55172 -- /Users/summikhanna/Documents/bootcamp/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py 
+  338   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 55306 -- /Users/summikhanna/Documents/bootcamp/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py 
+  339   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 55314 -- /Users/summikhanna/Documents/bootcamp/03_Split_Second_Homebuying/Solved/split_second_homebuying.py 
+  340   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 55346 -- /Users/summikhanna/Documents/bootcamp/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py 
+  341   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 55405 -- /Users/summikhanna/Documents/bootcamp/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py 
+  342   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 55500 -- /Users/summikhanna/Documents/bootcamp/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py 
+  343   /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 49758 -- /Users/summikhanna/Documents/bootcamp/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py 
+  344   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 49881 -- /Users/summikhanna/Documents/bootcamp/02_Returned_Goods/Unsolved/returned_goods.py 
+  345   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 49911 -- /Users/summikhanna/Documents/bootcamp/02_Returned_Goods/Unsolved/returned_goods.py 
+  346   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 49917 -- /Users/summikhanna/Documents/bootcamp/02_Returned_Goods/Unsolved/returned_goods.py 
+  347   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 49929 -- /Users/summikhanna/Documents/bootcamp/02_Returned_Goods/Unsolved/returned_goods.py 
+  348   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 49939 -- /Users/summikhanna/Documents/bootcamp/02_Returned_Goods/Unsolved/returned_goods.py 
+  349  clear
+  350   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50074 -- /Users/summikhanna/Documents/bootcamp/03_Split_Second_Homebuying_Part_2/Solved/split_second_part_2.py 
+  351   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50080 -- /Users/summikhanna/Documents/bootcamp/03_Split_Second_Homebuying_Part_2/Solved/split_second_part_2.py 
+  352   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50125 -- /Users/summikhanna/Documents/bootcamp/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py 
+  353   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50136 -- /Users/summikhanna/Documents/bootcamp/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py 
+  354   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50157 -- /Users/summikhanna/Documents/bootcamp/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py 
+  355   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50168 -- /Users/summikhanna/Documents/bootcamp/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py 
+  356   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50180 -- /Users/summikhanna/Documents/bootcamp/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py 
+  357   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50193 -- /Users/summikhanna/Documents/bootcamp/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py 
+  358   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50204 -- /Users/summikhanna/Documents/bootcamp/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py 
+  359   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50223 -- /Users/summikhanna/Documents/bootcamp/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py 
+  360  clear
+  361  from pathlib import path
+  362   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51622 -- /Users/summikhanna/Documents/bootcamp/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py 
+  363   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51662 -- /Users/summikhanna/Documents/bootcamp/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py 
+  364   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51680 -- /Users/summikhanna/Documents/bootcamp/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py 
+  365   cd /Users/summikhanna/Documents/bootcamp ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51694 -- /Users/summikhanna/Documents/bootcamp/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py 
+  366   /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 54719 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Class_1_Activities /01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py" 
+  367   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp" ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 55363 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Class_1_Activities /04_Stu_ATM_Application_Code/Unsolved/atm.py" 
+  368   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp" ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 55377 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Class_1_Activities /04_Stu_ATM_Application_Code/Unsolved/atm.py" 
+  369   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp" ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 55429 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Class_1_Activities /04_Stu_ATM_Application_Code/Unsolved/atm.py" 
+  370   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp" ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 55439 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Class_1_Activities /04_Stu_ATM_Application_Code/Unsolved/atm.py" 
+  371  clear
+  372   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp" ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 55446 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Class_1_Activities /04_Stu_ATM_Application_Code/Unsolved/atm.py" 
+  373   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp" ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 55536 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Class_1_Activities /04_Stu_ATM_Application_Code/Unsolved/atm.py" 
+  374   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp" ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 55778 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Class_1_Activities /05_Stu_ATM_Modularization/Unsolved/atm/atm.py" 
+  375  clear
+  376   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp" ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 55851 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Class_1_Activities /05_Stu_ATM_Modularization/Unsolved/atm/atm.py" 
+  377  conda activate dev
+  378  pip -V
+  379  pip freeze
+  380  clear
+  381  pip install fire
+  382  pip install questionary
+  383  import pathlib
+  384  conda dev activate
+  385  conda activate dev
+  386  car = {\n  "brand": "Ford",\n  "model": "Mustang",\n  "year": 1964\n}\n\nx = car.get("model")\n\nprint(x)
+  387  ```code\nconda create - n atmdev python=3.7 anaconda ```
+  388  ```code\nbquote> conda create - n atmdev python=3.7 anaconda ```conda
+  389  ```code conda activate atmdev ```
+  390  ```code conda activate atmdev```
+  391  ```code conda create -n atmdev python=3.7 anaconda ```
+  392  ```code conda activate atmdev```
+  393   /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 49683 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/Challenge - Starter_Code/loan_analyzer.py" 
+  394   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp" ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 49691 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/Challenge - Starter_Code/loan_analyzer.py" 
+  395   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp" ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 49700 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/Challenge - Starter_Code/loan_analyzer.py" 
+  396  clear
+  397   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp" ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50234 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/Challenge - Starter_Code/loan_analyzer.py" 
+  398   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp" ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50733 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/Challenge - Starter_Code/loan_analyzer.py" 
+  399  clear
+  400   /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60629 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/Challenge - Starter_Code/loan_analyzer.py" 
+  401   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1" ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60744 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/Class_2_Activities/07_Stu_Functions/Solved/functions.py" 
+  402   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1" ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60797 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/Challenge - Starter_Code/loan_analyzer.py" 
+  403   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1" ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60810 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/Challenge - Starter_Code/loan_analyzer.py" 
+  404   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1" ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60817 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/Challenge - Starter_Code/loan_analyzer.py" 
+  405   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1" ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60931 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/01_Racking_Up_The_Profit/Solved/racking_up_the_profit.py" 
+  406   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1" ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60972 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/Challenge - Starter_Code/loan_analyzer.py" 
+  407   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1" ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62445 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/Challenge - Starter_Code/loan_analyzer.py" 
+  408   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1" ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62574 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/Challenge - Starter_Code/loan_analyzer.py" 
+  409   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1" ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62757 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/Challenge - Starter_Code/loan_analyzer.py" 
+  410  clear
+  411   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1" ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62775 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/Challenge - Starter_Code/loan_analyzer.py" 
+  412   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1" ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 63229 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/Challenge - Starter_Code/loan_analyzer.py" 
+  413  clear
+  414   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1" ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 63233 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/Challenge - Starter_Code/loan_analyzer.py" 
+  415   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1" ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 63367 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/Challenge - Starter_Code/loan_analyzer.py" 
+  416  clear
+  417   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1" ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 63372 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/Challenge - Starter_Code/loan_analyzer.py" 
+  418   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1" ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 63458 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/Challenge - Starter_Code/loan_analyzer.py" 
+  419   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1" ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 63481 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/Challenge - Starter_Code/loan_analyzer.py" 
+  420   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1" ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 63569 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/Challenge - Starter_Code/loan_analyzer.py" 
+  421   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1" ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 63579 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/Challenge - Starter_Code/loan_analyzer.py" 
+  422   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1" ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 63596 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/Challenge - Starter_Code/loan_analyzer.py" 
+  423   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1" ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 63673 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/Challenge - Starter_Code/loan_analyzer.py" 
+  424   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1" ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 63726 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/Challenge - Starter_Code/loan_analyzer.py" 
+  425   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1" ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 63736 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/Challenge - Starter_Code/loan_analyzer.py" 
+  426   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1" ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 63752 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/Challenge - Starter_Code/loan_analyzer.py" 
+  427  clear
+  428   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1" ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 56150 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/Challenge - Starter_Code/loan_analyzer.py" 
+  429   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1" ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 56309 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/Challenge - Starter_Code/loan_analyzer.py" 
+  430  clear
+  431   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1" ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 56362 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/Challenge - Starter_Code/loan_analyzer.py" 
+  432  ls
+  433  cat inexpensive_loans.csv
+  434  cd Challenge - Starter_Code
+  435  ls
+  436  which
+  437  ll
+  438  ls
+  439  pwd
+  440  cd Challenge\ -\ Starter_Code
+  441  pwd
+  442   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1" ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 56375 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/Challenge - Starter_Code/loan_analyzer.py" 
+  443  ls
+  444  rm inexpensive_loans.csv
+  445  cd ..
+  446  ls
+  447  ls
+  448  cd Module\ -\ 
+  449  ls
+  450  ls
+  451  ls
+  452  ls
+  453  pwd
+  454  ls
+  455  cd Module\ -\ 1
+  456  ls
+  457  cd Challenge\ -\ Starter_Code
+  458  ls
+  459  rm inexpensive_loans.csv
+  460  cd ..
+  461  cd ..
+  462  ls
+  463   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1" ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 56386 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/Challenge - Starter_Code/loan_analyzer.py" 
+  464  clear
+  465   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1" ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 56572 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/Challenge - Starter_Code/loan_analyzer.py" 
+  466  cat 
+  467  ls
+  468  cat Challenge\ -\ Starter_Code/inexpensive_loans.csv
+  469  conda create -n atmdev python=3.7 anaconda
+  470  conda activate atmdev
+  471  pip install -r requirements.txt
+  472  ls
+  473  cd Documents?
+  474  cd Documents
+  475  ls
+  476  cd Fin-Tech\ BootCamp/Module\ -\ 2/Class_2_Activities/02_Stu_Build_ATM_Functions/
+  477  pip install -r requirements.txt
+  478  ls
+  479  cd Unsolved
+  480  cd..
+  481  cd ..
+  482  ls Unsolved
+  483  cd Unsolved
+  484  pip install -r requirements.txt
+  485  clear
+  486  ls
+  487  cd..
+  488  cd ..
+  489  cd ..
+  490  cd
+  491  ls
+  492  cd FinTech-Workspace/
+  493  ls
+  494  cd cd ..
+  495  cd ..
+  496  ls
+  497  cd Documents
+  498  cd Fin-Tech\ BootCamp/Module\ -\ 1
+  499  ls
+  500  cd Challenge\ 1-\ Starter_Code
+  501  git clone git@github.com:Summi-Khanna/challenge-1.git
+  502  git pull
+  503  ls
+  504  cd challenge-1
+  505  git pull
+  506  ls
+  507  pip -V
+  508  conda activate dev
+  509  pip -V
+  510  pip freeze
+  511  pip install fire
+  512  pip install questionary
+  513  conda activate dev
+  514  jupyter lab
+  515  conda deactivate
+  516  /usr/bin/python3 "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Challenge - 2 /loan_qualifier_app/app.py"
+  517  pip instll fire
+  518  pip install fire
+  519  ls
+  520  cd Module\ -\ 2/Challenge\ -\ 2\ 
+  521  pip install fire
+  522  ls
+  523  python loan_qualifier_app/app.py
+  524  python loan_qualifier_app/app.py
+  525  python loan_qualifier_app/app.py
+  526  python loan_qualifier_app/app.py
+  527  python loan_qualifier_app/app.py
+  528  python loan_qualifier_app/app.py
+  529  python loan_qualifier_app/app.py
+  530  clear
+  531  python loan_qualifier_app/app.py
+  532  python loan_qualifier_app/app.py
+  533  python loan_qualifier_app/app.py
+  534  python loan_qualifier_app/app.py
+  535  python loan_qualifier_app/app.py
+  536  python loan_qualifier_app/app.py
+  537  python loan_qualifier_app/app.py
+  538  python loan_qualifier_app/app.py
+  539  pip install questionary
+  540  /usr/bin/python3 "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Challenge - 2 /loan_qualifier_app/app.py"
+  541  pip install fire
+  542  source ~/.bash_profile
+  543  /usr/bin/python3 "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Challenge - 2 /loan_qualifier_app/app.py"
+  544  python loan_qualifier_app/app.py
+  545  /usr/bin/python3 "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Challenge - 2 /loan_qualifier_app/app.py"
+  546  /usr/bin/python3 "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Challenge - 2 /loan_qualifier_app/app.py"
+  547  python loan_qualifier_app/app.py
+  548  python loan_qualifier_app/app.py
+  549  python loan_qualifier_app/app.py
+  550  python loan_qualifier_app/app.py
+  551  python loan_qualifier_app/app.py
+  552  python loan_qualifier_app/app.py
+  553  python loan_qualifier_app/app.py
+  554  /usr/bin/python3
+  555  python loan_qualifier_app/app.py
+  556  python loan_qualifier_app/app.py
+  557  python loan_qualifier_app/app.py
+  558  pip install fire
+  559  which python
+  560  python --version
+  561  conda activate dev
+  562  which python
+  563  python --version
+  564  python --version
+  565  /opt/anaconda3/bin/python "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Challenge - 2 /loan_qualifier_app/app.py"
+  566  /opt/anaconda3/bin/python "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Challenge - 2 /loan_qualifier_app/app.py"
+  567  /opt/anaconda3/bin/python "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Challenge - 2 /loan_qualifier_app/app.py"
+  568  clear
+  569  /opt/anaconda3/bin/python "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Challenge - 2 /loan_qualifier_app/app.py"
+  570  /opt/anaconda3/bin/python "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Challenge - 2 /loan_qualifier_app/app.py"
+  571  pwd
+  572  which python/opt/anaconda3/bin/python "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Challenge - 2 /loan_qualifier_app/app.py"
+  573  /opt/anaconda3/bin/python "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Challenge - 2 /loan_qualifier_app/app.py"
+  574  /opt/anaconda3/bin/python "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Challenge - 2 /loan_qualifier_app/qualifier/utils/fileio.py"
+  575  /opt/anaconda3/bin/python "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Challenge - 2 /loan_qualifier_app/app.py"
+  576  /opt/anaconda3/bin/python "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Challenge - 2 /loan_qualifier_app/app.py"
+  577  conda activate dev
+  578  jupyter lab
+  579  conda deactivate dev
+  580  conda deactivate
+  581  source /opt/anaconda3/bin/activate
+  582  conda activate base
+  583   /usr/bin/env /opt/anaconda3/bin/python /Users/summikhanna/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 54216 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py" 
+  584   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp" ; /usr/bin/env /opt/anaconda3/bin/python /Users/summikhanna/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 54384 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py" 
+  585   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp" ; /usr/bin/env /opt/anaconda3/bin/python /Users/summikhanna/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 54396 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/01_Racking_Up_The_Profit/Solved/racking_up_the_profit.py" 
+  586   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp" ; /usr/bin/env /opt/anaconda3/bin/python /Users/summikhanna/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 54405 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py" 
+  587   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp" ; /usr/bin/env /opt/anaconda3/bin/python /Users/summikhanna/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 54418 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py" 
+  588   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp" ; /usr/bin/env /opt/anaconda3/bin/python /Users/summikhanna/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 54516 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py" 
+  589   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp" ; /usr/bin/env /opt/anaconda3/bin/python /Users/summikhanna/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 54581 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py" 
+  590   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp" ; /usr/bin/env /opt/anaconda3/bin/python /Users/summikhanna/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 54588 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py" 
+  591   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp" ; /usr/bin/env /opt/anaconda3/bin/python /Users/summikhanna/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 54611 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py" 
+  592   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp" ; /usr/bin/env /opt/anaconda3/bin/python /Users/summikhanna/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 54637 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/03_Pathways_to_Success_Part_2/Solved/pathways_to_success_part_2.py" 
+  593   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp" ; /usr/bin/env /opt/anaconda3/bin/python /Users/summikhanna/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 54643 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/03_Pathways_to_Success_Part_2/Solved/pathways_to_success_part_2.py" 
+  594  clear
+  595   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp" ; /usr/bin/env /opt/anaconda3/bin/python /Users/summikhanna/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 54677 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py" 
+  596   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp" ; /usr/bin/env /opt/anaconda3/bin/python /Users/summikhanna/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 54682 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py" 
+  597   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp" ; /usr/bin/env /opt/anaconda3/bin/python /Users/summikhanna/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 54691 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py" 
+  598   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp" ; /usr/bin/env /opt/anaconda3/bin/python /Users/summikhanna/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 54698 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py" 
+  599   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp" ; /usr/bin/env /opt/anaconda3/bin/python /Users/summikhanna/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 54761 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py" 
+  600   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp" ; /usr/bin/env /opt/anaconda3/bin/python /Users/summikhanna/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 54860 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py" 
+  601   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp" ; /usr/bin/env /opt/anaconda3/bin/python /Users/summikhanna/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 54865 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py" 
+  602   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp" ; /usr/bin/env /opt/anaconda3/bin/python /Users/summikhanna/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 54874 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py" 
+  603  clear
+  604   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp" ; /usr/bin/env /opt/anaconda3/bin/python /Users/summikhanna/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 54888 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py" 
+  605   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp" ; /usr/bin/env /opt/anaconda3/bin/python /Users/summikhanna/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 54967 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 1/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py" 
+  606  clear
+  607   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp" ; /usr/bin/env /opt/anaconda3/bin/python /Users/summikhanna/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 55682 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py" 
+  608   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp" ; /usr/bin/env /opt/anaconda3/bin/python /Users/summikhanna/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 55693 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/01_Loan_Qualifier_Financial_Calculations/Solved/app.py" 
+  609  clear
+  610   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp" ; /usr/bin/env /opt/anaconda3/bin/python /Users/summikhanna/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 55803 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py" 
+  611  clear
+  612  pwd
+  613  ls
+  614  cd Module\ -\ 2/Challenge-2
+  615  git status
+  616  git add README.md
+  617  git status
+  618  touch new_file.txt
+  619  git status
+  620  git add new_file.txt
+  621  git status
+  622  git commit -m "new files added"
+  623  git status
+  624  git push
+  625  git push
+  626  git status
+  627  clear
+  628  git push
+  629  git commit -m "updated readme file"
+  630  git status
+  631  git push
+  632  clear
+  633  git status
+  634  git add README.md
+  635  git status
+  636  git commit -m "updated README file"
+  637  git status
+  638  git push
+  639   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp" ; /usr/bin/env /opt/anaconda3/bin/python /Users/summikhanna/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 56610 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Challenge - 2 /loan_qualifier_app/app.py" 
+  640   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp" ; /usr/bin/env /opt/anaconda3/bin/python /Users/summikhanna/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 56626 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Challenge - 2 /loan_qualifier_app/app.py" 
+  641   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp" ; /usr/bin/env /opt/anaconda3/bin/python /Users/summikhanna/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 56644 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Challenge - 2 /loan_qualifier_app/app.py" 
+  642  clear
+  643   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp" ; /usr/bin/env /opt/anaconda3/bin/python /Users/summikhanna/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 56669 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Challenge - 2 /loan_qualifier_app/app.py" 
+  644  clear
+  645   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp" ; /usr/bin/env /opt/anaconda3/bin/python /Users/summikhanna/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 56697 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Challenge - 2 /loan_qualifier_app/app.py" 
+  646  /usr/bin/python3 "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Challenge - 2 /loan_qualifier_app/app.py"
+  647  conda activate dev
+  648  /opt/anaconda3/envs/atmdev/bin/python "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Challenge - 2 /loan_qualifier_app/app.py"
+  649   /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 56986 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Challenge - 2 /loan_qualifier_app/app.py" 
+  650  conda activate dev
+  651   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2" ; /usr/bin/env /usr/bin/python3 /Users/summikhanna/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 57000 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Challenge - 2 /loan_qualifier_app/app.py" 
+  652   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2" ; /usr/bin/env /opt/anaconda3/bin/python /Users/summikhanna/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 57015 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Challenge - 2 /loan_qualifier_app/app.py" 
+  653   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2" ; /usr/bin/env /opt/anaconda3/envs/atmdev/bin/python /Users/summikhanna/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 57080 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Challenge - 2 /loan_qualifier_app/app.py" 
+  654  clear
+  655  source /opt/anaconda3/bin/activate
+  656  conda activate atmdev
+  657   /usr/bin/env /opt/anaconda3/envs/atmdev/bin/python /Users/summikhanna/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 58713 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Challenge-2/app.py" 
+  658  conda activate dev
+  659   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2" ; /usr/bin/env /opt/anaconda3/envs/atmdev/bin/python /Users/summikhanna/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 58742 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Challenge-2/app.py" 
+  660   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2" ; /usr/bin/env /opt/anaconda3/envs/atmdev/bin/python /Users/summikhanna/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 58813 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Challenge-2/app.py" 
+  661   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2" ; /usr/bin/env /opt/anaconda3/envs/atmdev/bin/python /Users/summikhanna/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 58813 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Challenge-2/app.py" 
+  662   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2" ; /usr/bin/env /opt/anaconda3/envs/atmdev/bin/python /Users/summikhanna/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 58832 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Challenge-2/app.py" 
+  663   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2" ; /usr/bin/env /opt/anaconda3/envs/atmdev/bin/python /Users/summikhanna/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 58885 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Challenge-2/app.py" 
+  664   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2" ; /usr/bin/env /opt/anaconda3/envs/atmdev/bin/python /Users/summikhanna/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 58899 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Challenge-2/app.py" 
+  665   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2" ; /usr/bin/env /opt/anaconda3/envs/atmdev/bin/python /Users/summikhanna/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 58911 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Challenge-2/app.py" 
+  666  cd Challenge-2
+  667  git status
+  668  git add app.py
+  669  git add qualifier
+  670  git status
+  671  git commit -m  "Adding and updating CLI to calculate and save qualifying loans"
+  672  git status
+  673  git push
+  674  git status
+  675  git add data
+  676  git commit -m "Adding input data file"
+  677  git push
+  678  app.py
+  679  python app.py
+  680   cd "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2" ; /usr/bin/env /opt/anaconda3/envs/atmdev/bin/python /Users/summikhanna/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 59130 -- "/Users/summikhanna/Documents/Fin-Tech BootCamp/Module - 2/Challenge-2/app.py" 
+  681  cd Challenge-2
+  682  git status
+  683  git add README.md
+  684  git add images
+  685  git commit -m "Updating uREADME file with usage instructions"
+  686  git push
